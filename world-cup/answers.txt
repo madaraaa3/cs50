@@ -1,0 +1,19 @@
+Times:
+
+10 simulations: TODO 0m0.031s
+100 simulations: TODO 0m0.029s
+1000 simulations: TODO 0m0.044s
+10000 simulations: TODO 0m0.103s
+100000 simulations: TODO 0m0.877s
+1000000 simulations: TODO 0m7.545s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+
+with small number of simulation...
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?: 
+
+It seems like the predictions stabilized after 10000 ...
